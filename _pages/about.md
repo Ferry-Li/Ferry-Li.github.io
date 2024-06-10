@@ -31,13 +31,13 @@ Hi! I'm Feiran Li (李斐然, E-mail: lifeiran@iie.ac.cn). Now I am a PhD. stude
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/icml24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024 (Spotlight)</div><img src='images/icml24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Size-invariance Matters: Rethinking Metrics and Losses for Imbalanced Multi-object Salient Object Detection](https://arxiv.org/pdf/2405.09782)
 
 **Feiran Li**, [Qianqian Xu](https://qianqianxu010.github.io/), [Shilong Bao](https://statusrank.github.io/), [Zhiyong Yang](https://joshuaas.github.io/), [Runmin Cong](https://rmcong.github.io/), [Xiaochun Cao](https://scst.sysu.edu.cn/members/caoxiaochun.htm), [Qingming Huang](https://qmhuang-ucas.github.io/). 
-International Conference on Machine Learning (ICML) 2024.
+International Conference on Machine Learning (ICML) 2024.  **<font color='red'> (Spotlight, 3.7%) </font>**
 [[code]](https://github.com/Ferry-Li/SI-SOD) | [[slides]](https://icml.cc/virtual/2024/poster/35026)
 
 [**Project**](https://ferry-li.github.io/SI_SOD/) 
