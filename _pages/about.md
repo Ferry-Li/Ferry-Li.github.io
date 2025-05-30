@@ -23,11 +23,11 @@ Hi! I'm Feiran Li (李斐然, E-mail: lifeiran@iie.ac.cn). Now I am a PhD. stude
 
 
 
-<!--
+
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 One Paper has been accepted by ICML 2024.
 - *2024.05*: &nbsp;🎉🎉 One Paper has been accepted by ICML 2024.
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
--->
+
 
 # 📝 Publications 
 
