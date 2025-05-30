@@ -47,13 +47,13 @@ International Conference on Machine Learning (ICML) 2024.  **<font color='red'> 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024 (Spotlight)</div><img src='images/CoErase.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/CoErase.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [One Image is Worth a Thousand Words: A Usability Preservable Text-Image Collaborative Erasing Framework for Diffusion Models](https://arxiv.org/abs/2505.11131)
 
 **Feiran Li**, [Qianqian Xu](https://qianqianxu010.github.io/), [Shilong Bao](https://statusrank.github.io/), [Zhiyong Yang](https://joshuaas.github.io/), [Xiaochun Cao](https://scst.sysu.edu.cn/members/caoxiaochun.htm), [Qingming Huang](https://qmhuang-ucas.github.io/). 
-International Conference on Machine Learning (ICML) 2025.  **<font color='red'> (Spotlight, 3.5%) </font>** | 
+International Conference on Machine Learning (ICML) 2025.  (26.9%) | 
 [[code]](https://github.com/Ferry-Li/Co-Erasing)
 <!--<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 -->
