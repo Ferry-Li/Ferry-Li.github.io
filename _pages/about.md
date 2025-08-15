@@ -25,7 +25,7 @@ Hi! I'm Feiran Li (李斐然, E-mail: lifeiran@iie.ac.cn). Now I am a PhD. stude
 
 
 # 🔥 News
-
+- *2025.07*：&nbsp;🎉🎉 Winning the first-prize of the ICCV'25 Competition (DataCV Challenge), with one paper accepted by ICCV 2025 DataCV workshop.
 - *2025.06*: &nbsp;🎉🎉 One Paper has been accepted by T-PAMI.
 - *2025.05*: &nbsp;🎉🎉 One Paper has been accepted by ICML 2025.
 - *2024.05*: &nbsp;🎉🎉 One Paper has been accepted by ICML 2024.
@@ -62,6 +62,8 @@ International Conference on Machine Learning (ICML) 2025.  (26.9%) |
 - A text-image collaborative erasing framework for diffusion models.
 </div>
 </div>
+
+- [Hybrid Generative Fusion for Efficient and Privacy-Preserving Face Recognition Dataset Generation](https://arxiv.org/abs/2508.10672). **Feiran Li**, [Qianqian Xu](https://qianqianxu010.github.io/), [Shilong Bao](https://statusrank.github.io/), [Boyu Han](https://boyuh.github.io/), [Zhiyong Yang](https://joshuaas.github.io/), [Qingming Huang](https://qmhuang-ucas.github.io/). ICCV 2025 Workshop. | [code](https://github.com/Ferry-Li/datacv_fr)
 
 - [MOL: Joint Estimation of Micro-Expression, Optical Flow, and Landmark via Transformer-Graph-Style Convolution](https://arxiv.org/abs/2506.14511). [Zhiwen Shao](https://zhiwenshao.github.io/), Yifan Cheng, **Feiran Li**, [Yong Zhou](https://cs.cumt.edu.cn/info/1096/4459.htm), [Xuequan Lu](http://www.xuequanlu.com/), [Yuan Xie](https://dmcv.sjtu.edu.cn), [Lizhuang Ma](https://dmcv.sjtu.edu.cn). IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), **(Accepted)**.
 
