@@ -63,7 +63,7 @@ International Conference on Machine Learning (ICML) 2025.  (26.9%) |
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024 (Spotlight)</div><img src='images/SISOD_TPAMI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/SISOD_TPAMI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Towards Size-invariant Salient Object Detection: A Generic Evaluation and Optimization Approach](https://arxiv.org/pdf/2509.15573)
@@ -78,7 +78,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**) 2025
 </div>
 
 
-- [Hybrid Generative Fusion for Efficient and Privacy-Preserving Face Recognition Dataset Generation](https://arxiv.org/abs/2508.10672). **Feiran Li**, [Qianqian Xu](https://qianqianxu010.github.io/), [Shilong Bao](https://statusrank.github.io/), [Boyu Han](https://boyuh.github.io/), [Zhiyong Yang](https://joshuaas.github.io/), [Qingming Huang](https://qmhuang-ucas.github.io/). ICCV 2025 Workshop.  [[code]](https://github.com/Ferry-Li/datacv_fr).
+- [Hybrid Generative Fusion for Efficient and Privacy-Preserving Face Recognition Dataset Generation](https://arxiv.org/abs/2508.10672). **Feiran Li**, [Qianqian Xu](https://qianqianxu010.github.io/), [Shilong Bao](https://statusrank.github.io/), [Boyu Han](https://boyuh.github.io/), [Zhiyong Yang](https://joshuaas.github.io/), [Qingming Huang](https://qmhuang-ucas.github.io/). ICCV 2025 Workshop **(Oral)**.  [[code]](https://github.com/Ferry-Li/datacv_fr).
 
 - [MOL: Joint Estimation of Micro-Expression, Optical Flow, and Landmark via Transformer-Graph-Style Convolution](https://arxiv.org/abs/2506.14511). [Zhiwen Shao](https://zhiwenshao.github.io/), Yifan Cheng, **Feiran Li**, [Yong Zhou](https://cs.cumt.edu.cn/info/1096/4459.htm), [Xuequan Lu](http://www.xuequanlu.com/), [Yuan Xie](https://dmcv.sjtu.edu.cn), [Lizhuang Ma](https://dmcv.sjtu.edu.cn). IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), **(Accepted)**.
 
