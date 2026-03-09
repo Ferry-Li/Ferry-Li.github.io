@@ -25,6 +25,7 @@ Hi! I'm Feiran Li (李斐然, E-mail: lifeiran@iie.ac.cn). Now I am a PhD. stude
 
 
 # 🔥 News
+- *2026.03*：&nbsp;🎉🎉 One Paper has been accepted by CVPR 2026.
 - *2025.07*：&nbsp;🎉🎉 Winning the first-prize of the ICCV'25 Competition (DataCV Challenge), with one paper accepted by ICCV 2025 DataCV workshop.
 - *2025.06*: &nbsp;🎉🎉 One Paper has been accepted by T-PAMI.
 - *2025.05*: &nbsp;🎉🎉 One Paper has been accepted by ICML 2025.
@@ -60,6 +61,20 @@ International Conference on Machine Learning (ICML) 2025.  (26.9%) |
 <!--<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 -->
 - A text-image collaborative erasing framework for diffusion models.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/BlackMirror.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[BlackMirror: Black-Box Backdoor Detection for Text-to-Image Models via Instruction-Response Deviation](https://arxiv.org/abs/2603.05921)
+
+**Feiran Li**, [Qianqian Xu](https://qianqianxu010.github.io/), [Shilong Bao](https://statusrank.github.io/), [Zhiyong Yang](https://joshuaas.github.io/), [Xilin Zhao](https://openreview.net/profile?id=~Xilin_Zhao1), [Xiaochun Cao](https://scst.sysu.edu.cn/members/caoxiaochun.htm), [Qingming Huang](https://qmhuang-ucas.github.io/). 
+Conference on Computer Vision and Pattern Recognition (CVPR) 2026.  (25.42%) | 
+[[code]](https://github.com/Ferry-Li/BlackMirror)
+<!--<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+-->
+- A VLM&LLM-based black-box detection framework for text-image model backdoors.
 </div>
 </div>
 
