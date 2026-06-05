@@ -19,9 +19,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Feiran Li (李斐然, E-mail: lifeiran@iie.ac.cn). Now I am a PhD. student of **Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS)**, supervised by Prof. [Qingming Huang (黄庆明)](https://qmhuang-ucas.github.io/) (IEEE Fellow) and [Qianqian Xu (许倩倩)](https://qianqianxu010.github.io/) (Professor at ICT, CAS). I have received the B.E. degree in computer science and technology from [CUMT](https://www.cumt.edu.cn/) in 2023. My research interest includes **computer vision** (**计算机视觉**) and **generative model** (**生成模型**). I have authored or co-authored several academic papers in top-tier international conferences and journals, including ICML, ICCV, etc. If you are interested in my research, please email me at lifeiran@iie.ac.cn.
-
-My resume can be downloaded here: <a href="/Resume_Eng.pdf" download>Resume_En</a> | <a href="/Resume_zh.pdf" download>Resume_Zh</a>.
+Hi! I'm Feiran Li (李斐然, E-mail: lifeiran@iie.ac.cn). Now I am a PhD. student of **Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS)**, supervised by Prof. [Qingming Huang (黄庆明)](https://qmhuang-ucas.github.io/) (IEEE Fellow) and [Qianqian Xu (许倩倩)](https://qianqianxu010.github.io/) (Professor at ICT, CAS). I have received the B.E. degree in computer science and technology from [CUMT](https://www.cumt.edu.cn/) in 2023. My research interest includes **computer vision** (**计算机视觉**) and **generative model** (**生成模型**). I have authored or co-authored several academic papers in top-tier international conferences and journals, including ICML, ICCV, etc. If you are interested in my research, please email me at lifeiran@iie.ac.cn. My resume can be downloaded here: <a href="/Resume_Eng.pdf" download>Resume_En</a>|<a href="/Resume_zh.pdf" download>Resume_Zh</a>.
 
 # 🔥 News
 - *2026.03*：&nbsp;🎉🎉 One Paper has been accepted by CVPR 2026.
