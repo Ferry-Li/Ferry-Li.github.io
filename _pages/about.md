@@ -23,7 +23,7 @@ Hi! I'm Feiran Li (李斐然, E-mail: lifeiran@iie.ac.cn). Now I am a PhD. stude
 
 # 🔥 News
 - *2026.03*：&nbsp;🎉🎉 One Paper has been accepted by CVPR 2026.
-- *2025.07*：&nbsp;🎉🎉 Winning the first-prize of the ICCV'25 Competition (DataCV Challenge), with one paper accepted by ICCV 2025 DataCV workshop.
+- *2025.07*：&nbsp;🎉🎉 Winning the first-prize of the ICCV'25 Competition (DataCV Challenge), with one paper accepted by ICCV 2025 DataCV workshop Oral.
 - *2025.06*: &nbsp;🎉🎉 One Paper has been accepted by T-PAMI.
 - *2025.05*: &nbsp;🎉🎉 One Paper has been accepted by ICML 2025.
 - *2024.05*: &nbsp;🎉🎉 One Paper has been accepted by ICML 2024.
